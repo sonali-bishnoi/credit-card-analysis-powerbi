@@ -255,19 +255,18 @@ Regularly monitoring utilization and delinquency KPIs can help identify changes 
 ```text
 credit-card-analysis-powerbi/
 │
-├── data/
+├── credit_card_PBI_dataset/
 │   ├── credit_card.csv
 │   └── customer.csv
 │
-├── dashboard/
+├── Credit_card_dashboard/
 │   └── Credit_Card_Analysis.pbix
 │
-├── screenshots/
+├── Screenshots/
 │   ├── credit_utilization_risk.png
 │   ├── customer_financial_overview.png
 │   ├── customer_segmentation_recommendations.png
 │   └── spending_behavior.png
 │
 ├── README.md
-│
-└── .gitignore
+
